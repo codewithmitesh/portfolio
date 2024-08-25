@@ -13,7 +13,7 @@ import content 		from '../../../content/projects/featured.json'
 export default function FeaturedProject({ content }, index) {
 
 	const { project, url, repo, descriptionTitle,description, stack, imageOptions, images } = content
-
+console.log(url)
 	const controls = useAnimation();
 	const { ref, inView  } = useInView({
 		"threshold": 0.25,
@@ -38,18 +38,22 @@ export default function FeaturedProject({ content }, index) {
 			
 			<div className={css.details}>
 				<div className={css.projectHeader}>
-					<div className={css.header}>
+				<a href={url} target="_blank" rel="noopener noreferrer">
+					<div className={css.header}  >
 						<h3 className="highlight">{project}</h3><span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>	
 					</div>
+					</a>
 					<div className={css.description}>
 						<p><strong>{descriptionTitle}</strong> {description}</p>
 					</div>
 					<div className={css.stackContainer}>
 						<Badges list={stack} block="stack" fullContainer={false} color={false} />
 					</div>
+					<a href={url} target="_blank" rel="noopener noreferrer">
 					<m.div variants={''} className={css.viewProject}>
 						<Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} />
 					</m.div>
+					</a>
 				</div>
 			</div>
 
@@ -60,7 +64,7 @@ export default function FeaturedProject({ content }, index) {
 						return (
 							<m.div key={`${index}-${key}`} variants={item}>
 								<m.div variants={hover}>
-									<Image src={url} alt="x" height={h} width={w} />
+									<Image src={url} objectFit='contain' alt="x" height={h} width={w} />
 								</m.div>
 							</m.div>
 						)}

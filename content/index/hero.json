@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "const Mitesh = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,17 +11,18 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Mitesh Tank",
+		"usp": "Providing Scalable Software Solutions."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	
+	"paragraph": "I am an aspiring software engineer — a versatile developer constantly evolving, proficient in Full Stack, Flutter, and DevOps, driven by a passion for lifelong learning and making a meaningful impact.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
 			"url": "",
-			"leaveSite": false
+			"leaveSite": "true"
 		},
 		"secondary": {
 			"title": "LinkedIn",

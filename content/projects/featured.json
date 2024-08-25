@@ -1,10 +1,10 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
-		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"project": "NyayaSarthi",
+		"url": "https://github.com/codewithmitesh/NyayaSarthi#readme",
+		"repo": "Public",
+		"descriptionTitle": "Case Flow Management System",
+		"description": "with AI powered solutions for the Indian Judiciary. A full stack application built on the MERN stack.",
 		"imageOptions": [
 		],
 		"images": [
@@ -13,40 +13,41 @@
 			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
 		],
 		"stack": [
-			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
-			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "typescript", 		"name": "Typescript", 			"type": "devicon" },
+			{ "key": "database", 		"name": "NoSQL", 		"type": "devicon" },
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
-			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
-			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "aws", 		"name": "AWS", 		"type": "devicon" },
+			{ "key": "docker", "name": "Docker", 	"type": "devicon" },
+			{ "key": "mongodb",	"name": "MongoDB", 	"type": "devicon" },
+			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "react",		"name": "React", 		"type": "devicon" },
+			{ "key": "google",		"name": "GCP", 		"type": "devicon" },
+			{ "key": "python",		"name": "AI", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+			{ "key": "kubernetes",		"name": "Kubernetes", 	"type": "devicon" }
 		]
 	},
 	{
-		"project": "andrewnelson.net",
-		"url": "https://github.com/atlamors/portfolio",
+		"project": "ReFocus",
+		"url": "https://github.com/codewithmitesh/ReFocus#readme",
 		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"descriptionTitle": "Improve Focus and Attentiveness",
+		"description": "built on MERN to Increase Attentiveness for Students supported by Ministry of Education, India.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+			{ "key": "mock-stack",	"hover": "right",	"h": "324", "w": "556", "url": "/img/ChromeExtension.png" },
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/MeetDetailes.png" }
 		],
 		"stack": [
-			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "settings", 		"name": "Chrome Extension", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
 			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
 			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "docker",		"name": "docker", 		"type": "devicon" },
+			{ "key": "aws",		"name": "AWS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
 		]
 	}
