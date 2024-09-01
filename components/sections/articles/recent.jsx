@@ -47,7 +47,7 @@ export default function Recent({ mediumArticles }) {
 											<p>{description}</p>
 										</span>
 										<span className={css.details}>
-											<p>By {author}</p>
+											<p>{author}</p>
 											{/* <p className={css.pushedAt}>{date}</p> */}
 										</span>
 										<span className={css.topicsContainer}>

@@ -1,65 +1,39 @@
 [
   {
-    "title": "Understanding JavaScript Closures",
-    "description": "A deep dive into closures in JavaScript and how they work.",
-    "thumbnail": "/img/Architecture.png",
-    "link": "https://example.com/article1",
-    "tags": ["JavaScript", "Programming", "Closures"],
-    "author": "John Doe",
+    "title": "Certified Kubernetes Application Developer",
+    "description": "Passed the Certification with >80% marks",
+    "thumbnail": "/",
+    "link": "https://www.credly.com/badges/281c81b6-8a8c-43f6-acd7-1bf3dba9ed4a",
+    "tags": ["Kubernetes", "Linux", "AWS", "Certification"],
+    "author": "Issued by Linux Foundation",
     "pubDate": "2023-01-01T00:00:00Z"
   },
   {
-    "title": "A Guide to Responsive Web Design",
-    "description": "Learn the principles of responsive web design and how to implement them.",
+    "title": "AWS Cloud Practitioner", 
+    "description": "Passed the Certification with >80% marks",
     "thumbnail": "",
-    "link": "https://example.com/article2",
-    "tags": ["Web Design", "CSS", "Responsive"],
-    "author": "Jane Smith",
+    "link": "https://www.credly.com/badges/075ea8e9-cb83-47c5-965d-09f4cda3c440/public_url",
+    "tags": ["Cloud", "AWS", "EC2", "S3", "Deployments"],
+    "author": "Issued by Amazon Web Services",
     "pubDate": "2023-02-15T00:00:00Z"
   },
   {
-    "title": "Mastering Python for Data Science",
-    "description": "An in-depth guide to using Python for data science.",
-    "thumbnail": "",
-    "link": "https://example.com/article3",
-    "tags": ["Python", "Data Science", "Machine Learning"],
-    "author": "Alice Johnson",
+    "title": "Won Smart India Hackathon 2023🏆🎉",
+    "description": "Won the first place in the Smart India Hackathon 2022 ( PS: KH1156 ), the premier open innovation competition organized by the Government of India in collaboration with Amazon and Shell. This prestigious event is renowned for showcasing cutting-edge solutions and technological innovation.",
+    "thumbnail": "/img/SIH2022.jpeg",
+    "link": "https://github.com/codewithmitesh/ReFocus",
+    "tags": ["NodeJs","JavaScript", "MongoDB","ReactJs","API","AWS","ChromeExtensions"],
+    "author": "Issued by Government of India",
     "pubDate": "2023-03-10T00:00:00Z"
   },
   {
-    "title": "Introduction to Kubernetes",
-    "description": "A beginner's guide to understanding and using Kubernetes.",
-    "thumbnail": "",
-    "link": "https://example.com/article4",
-    "tags": ["Kubernetes", "DevOps", "Containers"],
-    "author": "Bob Brown",
+    "title": "Grand Finalist Smart India Hackathon 2023!",
+    "description": "NyayaSarthiNyayaSarthi Nov 2023 - PresentNov 2023 - Present          In the Smart India Hackathon 2023, we developed a comprehensive full-stack solution leveraging ReactJS, TypeScript, Node.js, and MongoDB. Our project involved training a custom Large Language Model (LLM) with several gigabytes of data, which we fine-tuned using Google’s Vertex AI. We created a Flask-based API to facilitate access to the LLM, which was instrumental in streamlining the handling of court cases in India.",
+    "thumbnail": "/img/SIH2023.jpeg",
+    "link": "https://github.com/codewithmitesh/NyayaSarthi",
+    "tags": ["Typescript", "AI", "VertextAI","Node.js", "MongoDB","API","ReactJs","Kubernetes"],
+    "author": "Issued by Government of India",
     "pubDate": "2023-04-05T00:00:00Z"
-  },
-  {
-    "title": "Building RESTful APIs with Node.js",
-    "description": "Learn how to build RESTful APIs using Node.js and Express.",
-    "thumbnail": "",
-    "link": "https://example.com/article5",
-    "tags": ["Node.js", "API", "Express"],
-    "author": "Charlie Davis",
-    "pubDate": "2023-05-20T00:00:00Z"
-  },
-  {
-    "title": "Exploring the New Features of React 18",
-    "description": "An overview of the new features and improvements in React 18.",
-    "thumbnail": "",
-    "link": "https://example.com/article6",
-    "tags": ["React", "JavaScript", "Frontend"],
-    "author": "Dana Lee",
-    "pubDate": "2023-06-15T00:00:00Z"
-  },
-  {
-    "title": "Getting Started with Docker",
-    "description": "A comprehensive guide to getting started with Docker.",
-    "thumbnail": "",
-    "link": "https://example.com/article7",
-    "tags": ["Docker", "Containers", "DevOps"],
-    "author": "Eve Martinez",
-    "pubDate": "2023-07-01T00:00:00Z"
   }
+
 ]
