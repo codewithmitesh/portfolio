@@ -9,6 +9,7 @@ import colors from '../../content/projects/_colors.json'
 
 //
 export default function Projects({ user, repos }) {
+	
 	return (
 		<>
 		<Color colors={colors} />

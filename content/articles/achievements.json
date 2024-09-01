@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Understanding JavaScript Closures",
+    "description": "A deep dive into closures in JavaScript and how they work.",
+    "thumbnail": "/img/Architecture.png",
+    "link": "https://example.com/article1",
+    "tags": ["JavaScript", "Programming", "Closures"],
+    "author": "John Doe",
+    "pubDate": "2023-01-01T00:00:00Z"
+  },
+  {
+    "title": "A Guide to Responsive Web Design",
+    "description": "Learn the principles of responsive web design and how to implement them.",
+    "thumbnail": "",
+    "link": "https://example.com/article2",
+    "tags": ["Web Design", "CSS", "Responsive"],
+    "author": "Jane Smith",
+    "pubDate": "2023-02-15T00:00:00Z"
+  },
+  {
+    "title": "Mastering Python for Data Science",
+    "description": "An in-depth guide to using Python for data science.",
+    "thumbnail": "",
+    "link": "https://example.com/article3",
+    "tags": ["Python", "Data Science", "Machine Learning"],
+    "author": "Alice Johnson",
+    "pubDate": "2023-03-10T00:00:00Z"
+  },
+  {
+    "title": "Introduction to Kubernetes",
+    "description": "A beginner's guide to understanding and using Kubernetes.",
+    "thumbnail": "",
+    "link": "https://example.com/article4",
+    "tags": ["Kubernetes", "DevOps", "Containers"],
+    "author": "Bob Brown",
+    "pubDate": "2023-04-05T00:00:00Z"
+  },
+  {
+    "title": "Building RESTful APIs with Node.js",
+    "description": "Learn how to build RESTful APIs using Node.js and Express.",
+    "thumbnail": "",
+    "link": "https://example.com/article5",
+    "tags": ["Node.js", "API", "Express"],
+    "author": "Charlie Davis",
+    "pubDate": "2023-05-20T00:00:00Z"
+  },
+  {
+    "title": "Exploring the New Features of React 18",
+    "description": "An overview of the new features and improvements in React 18.",
+    "thumbnail": "",
+    "link": "https://example.com/article6",
+    "tags": ["React", "JavaScript", "Frontend"],
+    "author": "Dana Lee",
+    "pubDate": "2023-06-15T00:00:00Z"
+  },
+  {
+    "title": "Getting Started with Docker",
+    "description": "A comprehensive guide to getting started with Docker.",
+    "thumbnail": "",
+    "link": "https://example.com/article7",
+    "tags": ["Docker", "Containers", "DevOps"],
+    "author": "Eve Martinez",
+    "pubDate": "2023-07-01T00:00:00Z"
+  }
+]

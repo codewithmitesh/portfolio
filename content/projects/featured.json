@@ -8,9 +8,8 @@
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
-			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+			{ "key": "mock-stack",	"hover": "right", 	"h": "324", "w": "556", "url": "/img/Architecture.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "800", "w": "556", "url": "/img/NS.png" }
 		],
 		"stack": [
 			{ "key": "typescript", 		"name": "Typescript", 			"type": "devicon" },
@@ -29,6 +28,30 @@
 	},
 	{
 		"project": "ReFocus",
+		"url": "https://github.com/codewithmitesh/ReFocus#readme",
+		"repo": "Public",
+		"descriptionTitle": "Improve Focus and Attentiveness",
+		"description": "built on MERN to Increase Attentiveness for Students supported by Ministry of Education, India.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right",	"h": "324", "w": "556", "url": "/img/ChromeExtension.png" },
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/MeetDetailes.png" }
+		],
+		"stack": [
+			{ "key": "settings", 		"name": "Chrome Extension", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "docker",		"name": "docker", 		"type": "devicon" },
+			{ "key": "aws",		"name": "AWS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "NEW PROJECT",
 		"url": "https://github.com/codewithmitesh/ReFocus#readme",
 		"repo": "Public",
 		"descriptionTitle": "Improve Focus and Attentiveness",

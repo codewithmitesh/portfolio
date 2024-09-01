@@ -30,11 +30,11 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="With a diverse skill set that spans Full Stack development, Flutter, DevOps, and blockchain technology, I am a well-rounded digital innovator committed to delivering impactful solutions."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/Personal/2.jpg" alt="Nelson family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
@@ -43,16 +43,16 @@ export default function About() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Beyond my technical expertise in Full Stack development, Flutter, and DevOps, I bring strong problem-solving, collaboration, and project management skills—sharpened through my experiences in team-based projects and hackathons. When I’m not coding, I’m exploring new technologies like blockchain or sharing my knowledge through content creation. I am confident in my ability to bring innovation and value to every project I undertake."
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Architecting Secure and Scalable Systems" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="One of my key passions is planning the infrastructure of a project. From automated pipelines to security protocols, I excel at integrating DevOps practices that ensure robust, secure, and efficient deployments."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
@@ -64,10 +64,10 @@ export default function About() {
 }
 
 const methods 	= [
-	{ key: 'planet-moon', 		name: 'User Research', 		type: 'fad' },
-	{ key: 'qrcode', 			name: 'Digital Strategy', 	type: 'fad' },
+	{ key: 'planet-moon', 		name: 'Software Development', 		type: 'fad' },
+	{ key: 'qrcode', 			name: 'Security', 	type: 'fad' },
 	{ key: 'window', 			name: 'Design Systems', 	type: 'fad' },
-	{ key: 'cubes', 			name: 'Product Strategy', 	type: 'far' },
-	{ key: 'layer-plus', 		name: 'Brand Strategy', 	type: 'fad' },
-	{ key: 'solar-system', 		name: 'Operations', 		type: 'fad' },
+	{ key: 'cubes', 			name: 'DevOps', 	type: 'far' },
+	{ key: 'layer-plus', 		name: 'Scaling', 	type: 'fad' },
+	{ key: 'solar-system', 		name: 'Optimizing Operations', 		type: 'fad' },
 ]
