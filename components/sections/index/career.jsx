@@ -10,7 +10,7 @@ import Container from '../../structure/container';
 // Section general blocks
 import SectionTitle from '../../blocks/section.title.block'
 import SectionGridBg from '../../blocks/section.grid.block'
-
+ 
 // Career scss
 import career from '../../../styles/sections/index/career.module.scss'
 
@@ -61,9 +61,9 @@ export default function Career() {
 						<div className={career.position}>
 							<div className={career.positionContent}>
 								<span class={career.positionHeader}>
-									<h3>Easyryt</h3>
-									<h3>Software Development Engineer Intern</h3>
-									<h4>May 2023 - August 2023 · 4 Months</h4>
+									<h3>Bentley Systems</h3>
+									<h3>Associate Software Engineer</h3>
+									<h4>July 2024 - Current</h4>
 								</span>
 								{/* <p>
 								As the lead full stack developer I am responsible for all software development, CI/CD, and QA. This is for the front end, APIs, and the back end. Additionally I was tasked with identifying and analyzing weak points in the customer journey and employee workflows. Each project had to be estimated and prioritized based on its workload and immediate impact to efficiency or revenue. Some of these projects have been so successful internally that we have planned refactoring for commercialization. 
@@ -74,26 +74,22 @@ export default function Career() {
 								<ul className={career.list}>
 									<li>
 										{/* Product attribute and settings automated testing */}
-										<span className={career.subList}><span className={career.bullet}></span>Developed an Admin Panel with 10+ key features using React, including user authentication, real-time data synchronization, and interactive dashboards. This implementation improved user engagement and administrative efficiency by 30%. </span>
+										<span className={career.subList}><span className={career.bullet}></span>Redesigned & Implemented the Internal Diagnostic Reports API Service (V3) end-to-end in C#, ensuring reverse compatibility and improving performance. Also, developed unit and integration tests, enhancing test coverage and reliability.</span>
 									</li>
 									<li>
 										{/* Inventory management reporting and automation  */}
-										<span className={career.subList}><span className={career.bullet}></span>Contributed to designing and maintaining REST APIs for backend applications, resulting in a 40% improvement in response times and a 25% increase in scalability. Implemented advanced security measures, reducing vulnerability exposure by 15%.</span>
+										<span className={career.subList}><span className={career.bullet}></span>Integrated Open Telemetry for API services, enhancing logs, metrics, and traces to improve observability by 50%. Also, configured Azure Application Insights for powerful analytics and visualization.</span>
 									</li>
 									<li>
 										{/* Sales management plugin with AJAX shopping cart integration */}
-										<span className={career.subList}><span className={career.bullet}></span>Collaborated with a cross-functional team to address and resolve 20+ technical issues, ensuring smooth integration between frontend and backend systems. Enhanced the overall system reliability and performance by 20%.</span>
+										<span className={career.subList}><span className={career.bullet}></span>Resolved & Optimized UI issues in React, upgrading to the latest iTwinUI version for better performance and user experience.</span>
 									</li>
 									<li>
 										{/* Bespoke ID verification software and WooCommerce integration */}
-										<span className={career.subList}><span className={career.bullet}></span>Acquired hands-on experience with technologies such as React, Node.js, Express.js, and MongoDB. Utilized version control with Git, containerization with Docker, and automated testing to streamline development processes and maintain high code quality.</span>
-									</li>
-									<li>
-										{/* Bespoke ID verification software and WooCommerce integration */}
-										<span className={career.subList}><span className={career.bullet}></span>Participated in multiple workshops and webinars on emerging technologies, including DevOps practices and cloud computing. Applied newly acquired skills to optimize project workflows and incorporate innovative solutions.</span>
+										<span className={career.subList}><span className={career.bullet}></span>Developed & Deployed Version 3 of a New Diagnostic Reports API on Azure API Management (APIM), managing end-to-end development, testing, and CI/CD pipelines for automated build, deployment, and release.</span>
 									</li>
 								</ul>
-								<Badges list={fullStack} block="stack" fullContainer="fullContainer"/>
+								<Badges list={ASE} block="stack" fullContainer="fullContainer"/>
 							</div>
 							<div className={career.positionAlt}></div>
 						</div>
@@ -101,42 +97,34 @@ export default function Career() {
 						<div className={career.position}>
 							<div className={career.positionContent}>
 									<span class={career.positionHeader}>
-									<h3>Zigy.in</h3>
+									<h3>Bentley Systems</h3>
 										<h3>Software Engineer Intern</h3>
-										<h4>Jul 2022 - Sep 2022 · 3 mos</h4>
+										<h4>Jan 2024 - Jul 2024 · 6 mos</h4>
 									</span>
-								{/* <p>
-									I was brought on to help fill multiple creative rolls in a small start-up environment. Working with the marketing team to create the brand and logos — designing and developing a new front end for the website — and improving the users experience and store KPIs through design and merchandising optimizations.
-								</p> */}
 								<p>
 									Some key contributions during this time 👇
 								</p>
 								<ul className={career.list}>
 									<li>
 										{/* Full functionality interactive shopping cart to replace cart page */}
-										<span className={career.subList}><span className={career.bullet}></span>Engaged in full-stack development tasks, including frontend design and backend architecture. Leveraged expertise in React, Node.js, MongoDB, and Flutter to build seamless, end-to-end solutions that met project requirements and client expectations.</span>
+										<span className={career.subList}><span className={career.bullet}></span>Designed & Implemented an end-to-end CI/CD pipeline for a C# .NET project using Azure DevOps, reducing manual intervention by 60% and accelerating deployment efficiency.</span>
 									</li>
 									<li>
 										{/* Complex multi-state animated menus represented in an elegant UI  */}
-										<span className={career.subList}><span className={career.bullet}></span>Created and maintained APIs for the E-Commerce app, facilitating smooth communication between the frontend and backend. Authored comprehensive API documentation, improving developer onboarding and reducing integration errors by 40%.</span>
+										<span className={career.subList}><span className={career.bullet}></span>Integrated & Managed Mend and Veracode security scans, identifying and resolving vulnerabilities in API services and UI projects, enhancing application security by 10%.</span>
 									</li>
 									<li>
 										{/* Design and development of the site and merchandising strategy optimized for market */}
 										<span className={career.subList}><span className={career.bullet}>
-											</span>Spearheaded the integration of backend services with a Flutter frontend, coordinating with the development team to streamline processes. Reviewed and optimized integration points, resulting in a 25% enhancement in application performance. </span>
+											</span>Enhanced API services to efficiently handle Seq logs, optimizing the logging structure for better troubleshooting and faster debugging.</span>
 									</li>
 									<li>
 										{/* Design and development of the site and merchandising strategy optimized for market */}
 										<span className={career.subList}><span className={career.bullet}>
-											</span>Designed and implemented a robust backend for an E-Commerce application using Node.js and MongoDB. Ensured 100% compliance with industry best practices, achieving a 50% reduction in downtime and a 30% increase in data handling efficiency.</span>
-									</li>
-									<li>
-										{/* Design and development of the site and merchandising strategy optimized for market */}
-										<span className={career.subList}><span className={career.bullet}>
-											</span>Utilized modern development practices such as version control with Git, automated testing, and containerization with Docker. Implemented these practices to streamline workflows, improve code quality, and accelerate deployment cycles.</span>
+											</span>Increased test coverage to 80% by writing unit and integration tests in C# .NET, ensuring higher code reliability and stability. Also, integrated Azure API Management (APIM) to enhance API security and monitoring.</span>
 									</li>
 								</ul>
-								<Badges list={stack} block="stack" fullContainer="fullContainer"/>
+								<Badges list={INTERN} block="stack" fullContainer="fullContainer"/>
 							</div>
 							<div className={career.positionAlt}></div>
 						</div>
@@ -188,6 +176,34 @@ const fullStack	= [
 	{ key: 'docker', 			name: 'Docker', 				type: 'devicon' },
 	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'postman', 		name: 'Postman', 				type: 'devicon' },
+	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+]
+
+const ASE	= [
+	{ key: 'typescript', 	name: 'Typescript', 		type: 'devicon' },
+	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
+	{ key: 'react', 		name: 'React', 				type: 'devicon' },
+	{ key: 'csharp', 		name: 'C#', 			type: 'devicon' },
+	{ key: 'dotnetcore', 			name: 'dotnet', 				type: 'devicon' },
+	{ key: 'devops', 		name: 'DevOps', 				type: 'devicon' },
+	{ key: 'azure', 			name: 'azure', 				type: 'devicon' },
+	{ key: 'docker', 			name: 'Docker', 				type: 'devicon' },
+	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
+	{ key: 'postman-plain', 		name: 'Postman', 				type: 'devicon' },
+	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+]
+
+const INTERN	= [
+	{ key: 'typescript', 	name: 'Typescript', 		type: 'devicon' },
+	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
+	{ key: 'react', 		name: 'React', 				type: 'devicon' },
+	{ key: 'csharp', 		name: 'C#', 			type: 'devicon' },
+	{ key: 'dotnetcore', 			name: 'dotnet', 				type: 'devicon' },
+	{ key: 'devops', 		name: 'DevOps', 				type: 'devicon' },
+	{ key: 'azure', 			name: 'azure', 				type: 'devicon' },
+	{ key: 'docker', 			name: 'Docker', 				type: 'devicon' },
+	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
+	{ key: 'postman-plain', 		name: 'Postman', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
 ]
 

@@ -1,23 +1,5 @@
 [
   {
-    "title": "Certified Kubernetes Application Developer",
-    "description": "Passed the Certification with >80% marks",
-    "thumbnail": "/",
-    "link": "https://www.credly.com/badges/281c81b6-8a8c-43f6-acd7-1bf3dba9ed4a",
-    "tags": ["Kubernetes", "Linux", "AWS", "Certification"],
-    "author": "Issued by Linux Foundation",
-    "pubDate": "2023-01-01T00:00:00Z"
-  },
-  {
-    "title": "AWS Cloud Practitioner", 
-    "description": "Passed the Certification with >80% marks",
-    "thumbnail": "",
-    "link": "https://www.credly.com/badges/075ea8e9-cb83-47c5-965d-09f4cda3c440/public_url",
-    "tags": ["Cloud", "AWS", "EC2", "S3", "Deployments"],
-    "author": "Issued by Amazon Web Services",
-    "pubDate": "2023-02-15T00:00:00Z"
-  },
-  {
     "title": "Won Smart India Hackathon 2023🏆🎉",
     "description": "Won the first place in the Smart India Hackathon 2022 ( PS: KH1156 ), the premier open innovation competition organized by the Government of India in collaboration with Amazon and Shell. This prestigious event is renowned for showcasing cutting-edge solutions and technological innovation.",
     "thumbnail": "/img/SIH2022.jpeg",
@@ -28,12 +10,38 @@
   },
   {
     "title": "Grand Finalist Smart India Hackathon 2023!",
-    "description": "NyayaSarthiNyayaSarthi Nov 2023 - PresentNov 2023 - Present          In the Smart India Hackathon 2023, we developed a comprehensive full-stack solution leveraging ReactJS, TypeScript, Node.js, and MongoDB. Our project involved training a custom Large Language Model (LLM) with several gigabytes of data, which we fine-tuned using Google’s Vertex AI. We created a Flask-based API to facilitate access to the LLM, which was instrumental in streamlining the handling of court cases in India.",
+    "description": "Grand Finalist of Smart India Hackathon 2023, we developed a comprehensive full-stack solution leveraging ReactJS, TypeScript, Node.js, and MongoDB. Our project involved training a custom Large Language Model (LLM) with several gigabytes of data, which we fine-tuned using Google’s Vertex AI. We created a Flask-based API to facilitate access to the LLM, which was instrumental in streamlining the handling of court cases in India.",
     "thumbnail": "/img/SIH2023.jpeg",
     "link": "https://github.com/codewithmitesh/NyayaSarthi",
     "tags": ["Typescript", "AI", "VertextAI","Node.js", "MongoDB","API","ReactJs","Kubernetes"],
     "author": "Issued by Government of India",
     "pubDate": "2023-04-05T00:00:00Z"
+  },
+  {
+    "title": "Certified Kubernetes Administrator",
+    "description": "Passed the Certification with 93% marks",
+    "thumbnail": "/img/CKA.png",
+    "link": "https://www.credly.com/badges/8cffc723-7152-45ee-986a-620633bbeaef/public_url",
+    "tags": ["Kubernetes", "Linux", "AWS", "Certification"],
+    "author": "Issued by Linux Foundation",
+    "pubDate": "2023-01-01T00:00:00Z"
+  },
+  {
+    "title": "Certified Kubernetes Application Developer",
+    "description": "Passed the Certification with >80% marks",
+    "thumbnail": "/img/CKAD.png",
+    "link": "https://www.credly.com/badges/281c81b6-8a8c-43f6-acd7-1bf3dba9ed4a",
+    "tags": ["Kubernetes", "Linux", "AWS", "Certification"],
+    "author": "Issued by Linux Foundation",
+    "pubDate": "2023-01-01T00:00:00Z"
+  },
+  {
+    "title": "AWS Cloud Practitioner", 
+    "description": "Passed the Certification with >80% marks",
+    "thumbnail": "/img/AWSCCP.png",
+    "link": "https://www.credly.com/badges/075ea8e9-cb83-47c5-965d-09f4cda3c440/public_url",
+    "tags": ["Cloud", "AWS", "EC2", "S3", "Deployments"],
+    "author": "Issued by Amazon Web Services",
+    "pubDate": "2023-02-15T00:00:00Z"
   }
-
 ]
